@@ -2,7 +2,7 @@
 #
 # FortiGate Active/Active Load Balanced pair of standalone FortiGate VMs for resilience and scale
 # Terraform deployment template for Microsoft Azure
-#TEST
+#
 ##############################################################################################################
 
 # Prefix for all resources created for this deployment in Microsoft Azure
